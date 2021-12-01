@@ -1,5 +1,5 @@
 # reqres
-Repository for a test assignment.
+Repository for a testing.
 
 The APIs are automated using Postman and Javascript with Chai Assertions.
 
