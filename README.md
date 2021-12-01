@@ -1,12 +1,16 @@
 # reqres
 Repository for Exploring API testing.
 
-TO DO - Dockerise exection with Docker Compose
-
 The APIs are automated using Postman and Javascript with Chai Assertions.
 
 The documentation for APIs is present online here: 
 https://documenter.getpostman.com/view/12108577/T1DmDeNa?version=latest
+
+Dockerised test exection with Docker Compose
+
+To Execute Tests with Docker:
+1. docker-compose up
+
 
 To Execute Tests:
 
