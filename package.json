@@ -1,0 +1,22 @@
+{
+  "name": "reqres",
+  "version": "1.0.0",
+  "description": "Repository for Exploring API testing.",
+  "main": "index.js",
+  "scripts": {
+    "test":"newman run ReqResApiAutomated.json -e Production.env  --folder Functional-Tests -r cli,progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oomkarpanditstudent/reqres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oomkarpanditstudent/reqres/issues"
+  },
+  "homepage": "https://github.com/oomkarpanditstudent/reqres#readme",
+  "dependencies": {
+    "newman": "^5.3.0"
+  }
+}
