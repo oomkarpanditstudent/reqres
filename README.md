@@ -1,5 +1,7 @@
 # reqres
-Repository for a testing.
+Repository for Exploring API testing.
+
+TO DO - Dockerise exection with Docker Compose
 
 The APIs are automated using Postman and Javascript with Chai Assertions.
 
